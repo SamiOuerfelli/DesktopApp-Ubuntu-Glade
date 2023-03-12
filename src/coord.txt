@@ -1,0 +1,4 @@
+13638081 Sami ouerfelli 1 1 1920 tunisienne Homme 28704590 samelfh Electeur 5 hhh -1
+12345 abed salah 1 1 1921 Tunisienne Homme 12459 sa@gmail.com Administrateur 1 Etudiant -1
+987456 ouerfelli semi 1 1 1924 Etranger Homme 45879 ls@gmail.com Observateur 3 etudiant -1
+89798 bk emna 1 1 1920 Tunisienne Femme 78795 zaeza@gmail.com Observateur 8 etudiante -1
